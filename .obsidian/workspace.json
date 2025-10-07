@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad_1/Gestión de Ficheros.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gestión de Ficheros"
+              "title": "README"
             }
           }
         ],
@@ -198,6 +198,7 @@
   },
   "active": "115b3b256199f106",
   "lastOpenFiles": [
+    "Unidad_1/Gestión de Ficheros.md",
     "Unidad_1/Ficheros Binarios Y serialización de objetos.md",
     "Unidad_1/Ficheros.md",
     "Unidad_1/Acceso Aleatorio a ficheros.md",
@@ -216,7 +217,6 @@
     "Unidad_1/Imagenes/n4.png",
     "Unidad_1/Scanner.md",
     "Unidad_1/Lectura y escritura secuencial de ficheros.md",
-    "Unidad_1/Gestión de Ficheros.md",
     "README.md",
     "Unidad_1/Imagenes",
     "Unidad_1"
