@@ -90,7 +90,7 @@ public class LecturaSecuencial {
 }
 ```
 
-![texto](../Imagenes/LecturaS.png)
+![PNG](../Imagenes/LecturaS.png)
 ##  Sistema de ficheros y rutas
 
 > Una **ruta** indica dónde se encuentra un archivo.
