@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad_1/Unidad_1/U_7.1 Profundización en JAXP.md",
+                "file": "Unidad_1/Unidad_1/U_7.2 XPath en profundidad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U_7.1 Profundización en JAXP"
-            }
-          },
-          {
-            "id": "115b3b256199f106",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Unidad_1/Imagenes/EjemploSAX.png"
-              },
-              "icon": "lucide-image",
-              "title": "EjemploSAX"
+              "title": "U_7.2 XPath en profundidad"
             }
           }
         ]
@@ -195,9 +183,11 @@
   },
   "active": "532dfa68f0c0e282",
   "lastOpenFiles": [
+    "Unidad_1/Unidad_1/U_7.1 Profundización en JAXP.md",
+    "Unidad_1/Unidad_1/U_7.2 XPath en profundidad.md",
+    "Unidad_1/Imagenes/XP1.png",
     "Unidad_1/Imagenes/JX2.png",
     "Unidad_1/Unidad_1/U_7 JAXP, XPath y Manipulacion Avanzada de XML.md",
-    "Unidad_1/Unidad_1/U_7.1 Profundización en JAXP.md",
     "Unidad_1/Imagenes/JX1.png",
     "Unidad_1/Unidad_1/U_Extra Scanner.md",
     "Unidad_1/Unidad_1/U_6.2 Procesamiento XML con SAX.md",
@@ -218,8 +208,6 @@
     "Unidad_1/Imagenes/p1.png",
     "Unidad_1/Imagenes/le3.png",
     "Unidad_1/Imagenes/le2.png",
-    "Unidad_1/Imagenes/le1.png",
-    "Unidad_1/Imagenes/n7.png",
     "Unidad_1/Imagenes",
     "Unidad_1"
   ]
